@@ -1,1 +1,1 @@
-# Comic1
+https://github.com/youniaogu/MangaReader.git
